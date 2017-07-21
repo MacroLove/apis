@@ -1,0 +1,13 @@
+# github
+Host github.com
+    HostName github.com
+    PreferredAuthentications publickey
+    IdentityFile ~/.ssh/id_rsa_bak
+
+# oschina
+Host git.oschina.net
+    HostName git.oschina.net
+    PreferredAuthentications publickey
+    IdentityFile ~/.ssh/id_rsa
+
+
