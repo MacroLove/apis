@@ -1,33 +1,19 @@
 [
 	{
 		"id" : "1",
-		"img" : "",
-		"local" : "0",
-		"path" : "",
+		"img" : "Header/h1.jpg",
 		"desc" : "",
 	},
 
 	{
 		"id" : "2",
-		"img" : "",
-		"local" : "0",
-		"path" : "",
+		"img" : "Header/h2.jpg",
 		"desc" : "",
 	},
 
 	{
 		"id" : "3",
-		"img" : "",
-		"local" : "0",
-		"path" : "",
-		"desc" : "",
-	},
-
-	{
-		"id" : "4",
-		"img" : "",
-		"local" : "0",
-		"path" : "",
+		"img" : "Header/h3.jpg",
 		"desc" : "",
 	},
 ]
